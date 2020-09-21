@@ -12,6 +12,8 @@ flake8-isort ='*'
 django = "*"
 markdown = "*"
 faker = "*"
+djangorestframework = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.8"
